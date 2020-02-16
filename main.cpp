@@ -79,7 +79,7 @@ int main()
         {
             d++;
             a.input();
-            if (d <= 3 && a.count < 8)
+            if (d <= 20 && a.count < 8)
             {
                 cout << "\n\n\t\tParking Available! You can park your car. ";
                 cout << "\n\n\t\tCar got parked!!";
